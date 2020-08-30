@@ -1,0 +1,14 @@
+#+TITLE:
+
+* installation
+sudo apt install i3
+
+* enable tab-click
+[[https://cravencode.com/post/essentials/enable-tap-to-click-in-i3wm/]]
+*
+* swap Caps_Lock and Control_l
+setxkbmap -layout us -option ctrl:nocaps
+ [[https://askubuntu.com/questions/33774/how-do-i-remap-the-caps-lock-and-ctrl-keys]]
+
+* brightness control
+[[https://askubuntu.com/questions/1060147/how-can-i-adjust-the-screen-brightness-in-i3wm-on-ubuntu-16-04]]
